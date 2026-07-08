@@ -5,3 +5,4 @@ data class Instrumento(
      val nombre: String,
      val descripcion: String?
 )
+//El data class en este caso representa un instrumento musical(objeto)
